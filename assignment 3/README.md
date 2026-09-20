@@ -14,7 +14,7 @@ UrbanCart's retention team wants to flag customers likely to churn before they g
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn jupyter
    ```
-2. From `assignment 3/answer 3/`, open and run top to bottom:
+2. From `assignment 3/`, open and run top to bottom:
    ```bash
    jupyter notebook milestone-2-churn.ipynb
    ```
