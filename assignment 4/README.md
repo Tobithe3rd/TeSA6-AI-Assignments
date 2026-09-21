@@ -4,8 +4,8 @@ No target label (`Churned` absent). Four numeric features describe 20,000 custom
 
 ## Files
 
-- `milestone3_segmentation.ipynb` — Full clustering workflow.
-- `dataset used/milestone-3-customer-segments.csv` — Raw dataset (20,000 rows, 4 numeric columns, 0 nulls, 0 duplicates, no label).
+- `assignment 4/milestone3_segmentation.ipynb` — Full clustering workflow.
+- `assignment 4/dataset used/milestone-3-customer-segments.csv` — Raw dataset (20,000 rows, 4 numeric columns, 0 nulls, 0 duplicates, no label).
 - `README.md` — This file.
 
 ## How to run
@@ -68,11 +68,11 @@ Dataset path in notebook: `assignment 4/dataset used/milestone-3-customer-segmen
 - **Cluster 3** — Name: *(fill)* — Description: moderate-value, moderate-frequency, high-discount users
 
 ## Outputs saved
-- `outputs/customer_segments_labeled.csv` (original df + `Cluster` column)
-- `outputs/charts/histograms.png`
-- `outputs/charts/correlation_heatmap.png`
-- `outputs/charts/elbow_silhouette.png`
-- `outputs/charts/davies_bouldin.png`
-- `outputs/charts/pca_scatter.png`
-- `outputs/charts/feature_boxplots.png`
-- `outputs/charts/cluster_profile_heatmap.png`
+- `assignment 4/outputs/customer_segments_labeled.csv` (original df + `Cluster` column)
+- `assignment 4/outputs/charts/histograms.png`
+- `assignment 4/outputs/charts/correlation_heatmap.png`
+- `assignment 4/outputs/charts/elbow_silhouette.png`
+- `assignment 4/outputs/charts/davies_bouldin.png`
+- `assignment 4/outputs/charts/pca_scatter.png`
+- `assignment 4/outputs/charts/feature_boxplots.png`
+- `assignment 4/outputs/charts/cluster_profile_heatmap.png`
